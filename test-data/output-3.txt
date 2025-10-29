@@ -1,3 +1,3 @@
 SUCCESS  # <- GT4500 init
 FAIL  # <- TORPEDO primary
-SUCCESS  # <- TORPEDO FROM OTHER STORE of failure
+FAIL  # <- TORPEDO FROM OTHER STORE of failure
